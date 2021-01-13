@@ -5,7 +5,7 @@
 # shopping-list
 my solution to DOM events exercise
   
-<a link="https://jaejun-park.github.io/shopping-list/.
+<a href="https://jaejun-park.github.io/shopping-list/.
 ">check here</a>
 <body>
 <html>
